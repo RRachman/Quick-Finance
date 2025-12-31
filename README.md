@@ -1,6 +1,3 @@
-Berikut **README yang bagus + tutorial lengkap penggunaan** untuk project **Quick-Finance** kamu (pretest masuk **TiketUX**). 💪
-
----
 
 # 📊 Quick-Finance
 
@@ -181,18 +178,3 @@ npm run dev
 
 ---
 
-## 📨 Tentang Ini
-
-Ini adalah repository **Quick-Finance**, aplikasi web sederhana untuk kelola keuangan yang dibangun dengan **Laravel 10 + Bootstrap 5 + MySQL**. ([GitHub][1])
-
-Kalau kamu mau, aku juga bisa bantu buat:
-
-✅ Dokumentasi fitur lebih detail
-✅ Tutorial video penggunaannya
-✅ Penjelasan arsitektur kode
-
----
-
-Kalau mau versi **bahasa Inggris**, tinggal bilang aja!
-
-[1]: https://github.com/RRachman/Quick-Finance.git "GitHub - RRachman/Quick-Finance"
